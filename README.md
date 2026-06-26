@@ -1,29 +1,49 @@
-# Retail Sales Exploratory Data Analysis | OASIS Infobyte
+# OASIS Infobyte Data Analytics Internship
 
-## Objective
-Perform EDA on retail sales dataset to uncover patterns, trends, and insights that help the business make informed decisions.
+Repository for OASIS Infobyte Data Analytics Internship Tasks.
 
-## Dataset
-5,000 records with customer demographics, product categories, amount, season, payment method, etc.
+## Completed Tasks
 
-## Key Analysis Performed
-1. **Data Cleaning**: Handled missing values, checked data types
-2. **Descriptive Statistics**: Calculated mean, median, std dev for sales metrics  
-3. **Customer Analysis**: Compared spending patterns by gender
-4. **Product Analysis**: Identified top purchased items and categories
-5. **Time/Season Analysis**: Analyzed spending distribution across seasons
-6. **Visualization**: Bar charts, box plots, heatmaps for insights
+### Task 1: Retail Sales - Level 1
+**Folder**: `01-Retail-Sales`  
+**Objective**: Exploratory Data Analysis on Retail Sales Data
 
-## Key Insights
-- Footwear category leads with highest sales count
-- Male customers spend 4x more on average than female customers
-- Autumn season records highest spending distribution
-- Sandals, Formal Shoes, and Sneakers are top 3 most purchased items
-- Card is the most preferred payment method
-- Strong positive correlation between Discount Applied and Previous Purchases
+**Description**: Work with dataset containing information about retail sales. Perform data analysis to uncover patterns, trends, and insights that can help retail business make informed decisions.
 
-## Tech Stack
-Python, Pandas, Matplotlib, Seaborn, Google Colab
+**Work Done**:
+1. Data Loading and Cleaning: Load the retail sales dataset
+2. Descriptive Statistics: Calculate basic statistics
+3. Time Series Analysis: Analyze sales trends over time
+4. Customer and Product Analysis: Analyze demographics and purchasing behavior
+5. Visualization: Present insights through bar charts, line plots, and heatmaps
 
-## Files
-- Retail_sales_EDA.ipynb - Main analysis notebook
+### Task 3: Cleaning Data - Level 1
+**Folder**: `01-Airbnb-Data-Cleaning`  
+**Dataset**: NYC Airbnb 2019  
+**Objective**: Cleaning Data
+
+**Description**: Data cleaning is the process of fixing or removing incorrect, corrupted, duplicate, or incomplete data within a dataset.
+
+**Work Done**:
+1. Data Integrity: Ensured accuracy, consistency, and reliability of data
+2. Missing Data Handling: Dealt with missing values by imputing or making informed decisions
+3. Duplicate Removal: Identified and eliminated duplicate records
+4. Standardization: Consistent formatting and units across dataset
+5. Outlier Detection: Identified and addressed outliers
+
+### Task 4: Android App Market - Level 2
+**Folder**: `04-PlayStore-EDA`  
+**Objective**: Unveiling the Android App Market: Analyzing Google Play Store Data
+
+**Description**: Clean, categorize, and visualize Google Play Store data to understand app market dynamics. Gain in-depth insights into the Android app market by leveraging data analytics, visualization, and enhanced interpretation skills.
+
+**Work Done**:
+1. Data Preparation: Cleaned and corrected data types for accuracy
+2. Category Exploration: Investigated app distribution across categories
+3. Metrics Analysis: Examined app ratings, size, popularity, and pricing trends
+4. Sentiment Analysis: Assessed user sentiments through reviews
+5. Interactive Visualization: Utilized code for compelling visualizations
+
+**Tools Used**: Python, Pandas, Matplotlib, Seaborn, Kaggle API
+
+**LinkedIn Post**: Add link after posting
