@@ -46,4 +46,9 @@ Repository for OASIS Infobyte Data Analytics Internship Tasks.
 
 **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Kaggle API
 
-**LinkedIn Post**: Add link after posting
+LinkedIn Post URL:
+Task 1:https://www.linkedin.com/posts/shreya-pandey-083a5b327_dataanalytics-python-eda-ugcPost-7475787041633574912-1Vq9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKPR6MB-aMZDDhAYjA9wB5ktgo2XWTdwl8
+Task 3:https://www.linkedin.com/posts/shreya-pandey-083a5b327_dataanalytics-python-datacleaning-ugcPost-7475782369837481985-QAVV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKPR6MB-aMZDDhAYjA9wB5ktgo2XWTdwl8
+Task 4:https://www.linkedin.com/posts/shreya-pandey-083a5b327_dataanalytics-python-androidappmarket-ugcPost-7476100136658579456-Pamu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKPR6MB-aMZDDhAYjA9wB5ktgo2XWTdwl8
+
+**LinkedIn Post**: Add link after postin
